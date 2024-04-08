@@ -86,6 +86,7 @@ or g5(carry,w3,w2);
 endmodule
 ```
 # Full Subtractor:
+```
 module fs(a,b,bin,d,bout);
 input a,b,bin; 
 output d,bout;
